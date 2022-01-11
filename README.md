@@ -14,3 +14,6 @@ O desenvolvimento do código teve como objetivo recriar a interface do Netflix c
 <p align="left">
   <img src="/img/gif_potterflix.gif">
 </p>
+
+
+#### Em processo 🔄
